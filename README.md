@@ -1,7 +1,5 @@
 - 👋 Hi! I'm @ajroura22
-- 🔭 I’m interested in cancer genetics and epigenetics. 
-- 👀 I’m currently finishing my PhD studies, where I study malignant brain tumours.
-- 💻 There is a need to identify new promising targets in order to provide a better therapeutic option for these patients.
+- 🔭 I’m interested in chemotherapy persistence, cell plasticity and cancer genetics and epigenetics.
 - 🌀 I'm also fascinated by chromatin remodelling and gene regulation processes.  
 
 
